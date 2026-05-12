@@ -1,10 +1,9 @@
 
 # Olá, eu sou a Heloísa! 👋
 
-Estudante de TI · Desenvolvimento Python
-
+- 💻 Desenvolvimento Python
 - 🐍 Experiência com Python, Flask e MongoDB
-- 🎓 Cursando Bacharelado em Tecnologia da Informação na UFRN
+- 🎓 Cursando Bacharelado em TI na UFRN
 - 📬 maria.morais.117@ufrn.edu.br
 
 #
