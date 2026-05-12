@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Heloísa! 👋
 
-Estudante de TI · Desenvolvimento Python & Análise de Dados
+Estudante de TI · Desenvolvimento Python
 
 - 🐍 Experiência com Python, Flask e MongoDB
 - 🎓 Cursando Bacharelado em Tecnologia da Informação na UFRN
