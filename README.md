@@ -3,7 +3,7 @@
 
 - 💻 Desenvolvedora Python
 - 🐍 Experiência com Python, Flask e MongoDB
-- 🎓 Cursando Bacharelado em TI na UFRN
+- 🎓 Cursando Bacharelado em Tecnologia da Informação na UFRN
 - 📬 maria.morais.117@ufrn.edu.br
 
 #
