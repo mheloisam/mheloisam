@@ -2,7 +2,7 @@
 # Olá, eu sou a Heloísa! 👋
 
 - 💻 Desenvolvedora Full Stack
-- 🐍 Python, Flask, MongoDB e JavaScript
+- 🐍 Experiência com Python, Flask, MongoDB e JavaScript
 - 🎓 Cursando Bacharelado em Tecnologia da Informação na UFRN
 - 📬 maria.morais.117@ufrn.edu.br
 
