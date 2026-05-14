@@ -8,7 +8,7 @@
 
 #
 
-[![Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,mongodb,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,mongodb,git,vscode)](https://skillicons.dev)
 
 #
 
